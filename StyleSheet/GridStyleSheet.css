@@ -1,0 +1,89 @@
+﻿
+
+body {
+    font-family: inter,sans-serif;
+    background-color: #090e34;
+}
+
+.Search {
+    width: 132px;
+    margin-right: 19px;
+    margin-left: 7px;
+    height: 48px;
+}
+
+.detailsbox:active {
+    background-color: white;
+    border: 2px solid #808080;
+    opacity: 0;
+    transition: opacity 1.5s;
+}
+
+.df {
+    padding-bottom: 35px;
+}
+
+.navbar .nav-item .nav-link:hover {
+    color: #808080;
+}
+
+.lista {
+    background-color: #1d2144;
+    height: 394px;
+    width: 252px;
+    border-radius: 10px;
+}
+
+.umm {
+    background-color: #1d2144;
+    margin-bottom: 20px;
+    padding-left: 33px;
+    opacity: 100%;
+}
+
+img1 {
+    width: 30px;
+    margin-right: 20px;
+}
+
+.a26 {
+    fill: currentColor;
+}
+
+path {
+    color: #4a6cf7 !important;
+}
+
+.row1 {
+    padding-top: 63px;
+    font-size: 3vw;
+    margin-bottom: 20px;
+}
+
+.prow1 {
+    font-size: 1vw;
+}
+
+.button6 {
+    background-color: #1d2144;
+}
+
+    .button6:hover {
+        background-color: #4a6cf7;
+    }
+
+.bb {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 29px;
+}
+
+.Be {
+    margin-top: 37px;
+    margin-bottom: 25px;
+}
+
+.position-img {
+    border-radius: 8px 8px 0 0;
+}
+

@@ -1,0 +1,36 @@
+﻿
+
+.lista {
+    background-color: #1d2144;
+    height: 374px;
+    width: 252px;
+    border-radius: 10px;
+}body {
+    font-family: inter,sans-serif;
+    background-color: #090e34;
+}
+
+#btn:hover {
+    background-color: white;
+    color: #3356f8;
+}
+
+p {
+    color: #9ea0d2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+.btnBack:hover {
+    background-color: white;
+    color: blue;
+}
+
+.btnBack {
+    paddinsg-inline: 30px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+

@@ -1,0 +1,73 @@
+﻿
+
+
+body {
+    font-family: inter,sans-serif;
+    background-color: #090e34;
+}
+
+#btn:hover {
+    background-color: white;
+    color: #3356f8;
+}
+
+p {
+    color: #9ea0d2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+.signin {
+    border-radius: 10px;
+    background-color: #333333;
+}
+
+.form-control {
+    background-color: #242b51;
+    box-shadow: 2px 2px 2px 2px #242b51;
+    border-color: #242b51;
+}
+
+.zzz {
+    background-color: #242b51;
+    box-shadow: 2px 2px 2px 2px #242b51;
+    border-color: #242b51;
+}
+
+.zz {
+    margin-bottom: 4px;
+    height: 50px;
+    background-color: #242b51;
+    box-shadow: 2px 2px 2px 2px #242b51;
+    border-color: #242b51;
+}
+
+.z {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    height: 50px;
+    background-color: #4a6cf7;
+}
+
+
+@media screen and (max-width:576px) {
+    .fontsizesignin {
+        font-size: 4.4vw;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .fontsizelogin {
+        font-size: 3vw;
+    }
+}
+
+.lista {
+    background-color: #1d2144;
+    height: 374px;
+    width: 252px;
+    border-radius: 10px;
+}
+

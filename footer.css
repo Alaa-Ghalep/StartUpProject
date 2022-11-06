@@ -1,0 +1,32 @@
+﻿.nav .nav-item .nav-link {
+    color: #9ea0d2;
+    font-size: 16.5px;
+}
+    .nav .nav-item .nav-link:hover {
+        color: blue;
+        font-size: 16.5px;
+    }
+.nnn {
+    width: 20px;
+}
+
+    .nnn:hover {
+        background-color: blue;
+    }
+
+.footer {
+    background-color: #131b52;
+    height: 6vw;
+    color: #dbdde5;
+}
+
+.gotoup {
+    position: fixed;
+    top: 560px;
+    right: 50px;
+    width: 37px;
+}
+
+.mtt {
+    margin-top: 100px;
+}

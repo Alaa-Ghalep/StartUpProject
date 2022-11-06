@@ -1,0 +1,50 @@
+﻿body {
+    font-family: inter,sans-serif;
+    background-color: #090e34;
+}
+
+.lista {
+    background-color: #1d2144;
+    height: 374px;
+    width: 252px;
+    border-radius: 10px;
+}
+
+.Searchh {
+    width: 132px;
+    margin-right: 19px;
+    margin-left: 7px;
+    height: 48px;
+}
+
+p {
+    color: #9ea0d2;
+    font-size: 17.5px;
+}
+
+.fonts {
+    font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
+
+ul li {
+    color: #9ea0d2;
+}
+
+.btnbg {
+    background-color: #111a4d;
+    color: #9ea0d2;
+}
+
+    .btnbg:hover {
+        background-color: #3366cc;
+        color: white;
+    }
+
+.Design {
+    border-radius: 20px;
+}
+
